@@ -1,1 +1,1 @@
-# session6
+# CollectionViewChallenge UdacityConnect
